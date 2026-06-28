@@ -1,0 +1,19 @@
+[user]
+	name = Brandon Lee
+	email = brandonlee503@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[push]
+	autoSetupRemote = true
+[color]
+	ui = auto
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	lg = log --oneline --graph --decorate

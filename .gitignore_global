@@ -1,0 +1,33 @@
+# Global gitignore — symlink to ~/.gitignore_global and register with:
+#   git config --global core.excludesfile ~/.gitignore_global
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Logs & temp
+*.log
+*.tmp
+
+# Environment & secrets (never commit these)
+.env
+.env.local
+*.pem
+
+# Build artifacts
+node_modules/
+dist/
+build/
+.DS_Store
