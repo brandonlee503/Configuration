@@ -12,6 +12,8 @@ brew "gh"
 brew "htop"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
 # Tool to enforce Swift style and conventions
 brew "swiftlint"
 # Code-search similar to ack
@@ -54,6 +56,7 @@ cask "steam"
 cask "superwhisper"
 # Video communication and virtual meeting platform
 cask "zoom"
+vscode "github.copilot-chat"
 vscode "ms-python.debugpy"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"
