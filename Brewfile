@@ -40,6 +40,8 @@ cask "discord"
 cask "figma"
 # Web browser
 cask "google-chrome"
+# AI Assistant
+cask "google-gemini"
 # Graphically shows disk usage within a file system
 cask "grandperspective"
 # Full TeX Live distribution without GUI applications
