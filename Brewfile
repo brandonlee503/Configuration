@@ -44,8 +44,6 @@ cask "google-chrome"
 cask "grandperspective"
 # Full TeX Live distribution without GUI applications
 cask "mactex-no-gui"
-# App to write, plan, collaborate, and get organised
-cask "notion"
 # Collaboration platform for API development
 cask "postman"
 # Music streaming service
