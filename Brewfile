@@ -54,6 +54,8 @@ cask "spotify"
 cask "steam"
 # Dictation tool including LLM reformatting
 cask "superwhisper"
+# Messaging and voice calling platform
+cask "whatsapp"
 # Video communication and virtual meeting platform
 cask "zoom"
 vscode "github.copilot-chat"
