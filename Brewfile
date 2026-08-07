@@ -58,6 +58,8 @@ cask "superwhisper"
 cask "whatsapp"
 # Video communication and virtual meeting platform
 cask "zoom"
+# Code editor
+cask "visual-studio-code"
 vscode "github.copilot-chat"
 vscode "ms-python.debugpy"
 vscode "ms-python.python"
