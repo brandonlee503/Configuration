@@ -22,6 +22,18 @@ Modifies zsh. Includes [zsh-autosuggestions](https://github.com/zsh-users/zsh-au
 
 To install: copy to `~/.zshrc`.
 
+#### Brewfile
+
+Installs Homebrew formulae, casks, and VS Code extensions.
+
+To install: `brew bundle`
+
+After installing Xcode or the Xcode Command Line Tools, accept the license:
+
+```
+sudo xcodebuild -license accept
+```
+
 #### Default.idekeybindings file
 
 This file modifies Xcode's keybindings (Xcode 11.5).
